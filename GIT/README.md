@@ -1,2 +1,2 @@
 
-This data is updated manually
+This data is updated ----- manually (git - readme.md)
