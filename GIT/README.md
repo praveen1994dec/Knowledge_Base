@@ -6,3 +6,5 @@ git clone <URL>
 
 To check status use command 
 git status
+
+to exit the repository use command
